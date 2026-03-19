@@ -25,34 +25,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Instant Personal Voice Cloning)
 
-- **[ElevenLabs](https://elevenlabs.io/)**  
-  Industry leader for personal voice cloning. Instant Voice Cloning (from ~30 seconds of your audio) and Professional Voice Cloning (longer samples for perfect fidelity). Emotional control, 29+ languages, dubbing, and API. Best-in-class quality for creators, audiobooks, and enterprises.
-
-- **[Play.ht](https://play.ht/)**  
-  Fast, high-quality personal voice cloning from minutes of your recordings. Real-time TTS, multilingual support, and easy API. Excellent for podcasts, videos, and marketing content.
-
-- **[Resemble.ai](https://www.resemble.ai/)**  
-  Real-time personal voice cloning + speech-to-speech conversion. Clone your voice in seconds with strong ethical safeguards and on-premise options. Ideal for voice agents and interactive apps.
-
-- **[Cartesia](https://cartesia.ai/)**  
-  Ultra-low-latency (sub-40ms) instant personal cloning from just 3 seconds of audio. Purpose-built for real-time voice agents and conversational AI.
-
-- **[Fish Audio](https://fish.audio/)**  
-  Emotional and multilingual personal voice cloning with excellent control. Budget-friendly and high-fidelity for creators needing expressive replicas.
+| Name | First Accelerator | Key Features |
+| :--- | :--- | :--- |
+| **[ElevenLabs](https://elevenlabs.io/)** | None | Industry leader. Instant & Professional Voice Cloning (PVC), emotional control, 29+ languages, and high-fidelity API. |
+| **[Play.ht](https://play.ht/)** | **YC** (W23) | Fast, high-quality cloning from minutes of audio. Real-time TTS, multilingual support, and easy-to-use API. |
+| **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | Real-time cloning + speech-to-speech. Strong ethical safeguards and on-premise deployment options. |
+| **[Cartesia](https://cartesia.ai/)** | **YC** (S25) | Ultra-low-latency (sub-40ms) instant cloning from 3 seconds of audio. Built for conversational AI agents. |
+| **[Fish Audio](https://fish.audio/)** | None | Emotional and multilingual cloning with excellent control. High-fidelity and budget-friendly. |
 
 ### Advanced & Specialized Cloning Tools
 
-- **[Descript Overdub](https://www.descript.com/overdub)**  
-  Seamless personal voice cloning from 10+ minutes of your audio. Perfect for podcast/video editing — replace or extend your own words naturally.
-
-- **[Murf.ai](https://murf.ai/)**  
-  Studio-quality personal cloning with emotional range and enterprise workflows. Great for video narration and training content.
-
-- **[LOVO.ai](https://lovo.ai/)**  
-  Personal voice cloning focused on marketing and explainer videos. Strong multilingual support and easy templates.
-
-- **[Typecast](https://typecast.ai/)**  
-  Instant personal cloning with very short audio samples. User-friendly interface and high customization.
+| Name | First Accelerator | Focus Area |
+| :--- | :--- | :--- |
+| **[Descript Overdub](https://www.descript.com/overdub)** | None | Spun out of Detour; perfect for podcast/video editing — replace or extend your own words naturally. |
+| **[Murf.ai](https://murf.ai/)** | **Antler** (India) | Studio-quality personal cloning with emotional range. Ideal for video narration and training content. |
+| **[LOVO.ai](https://lovo.ai/)** | **500 Global** | Focus on marketing and explainer videos. Strong multilingual support and templates. |
+| **[Typecast](https://typecast.ai/)** | **500 Global** | Instant personal cloning with very short audio samples and a user-friendly interface. |
 
 **Other notable mentions**: WellSaid Labs (enterprise compliance cloning), Speechify, and Voice.ai.
 
@@ -60,38 +48,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Personal Voice Cloning Projects
 
-- **[OpenVoice](https://github.com/myshell-ai/OpenVoice)**  
-  MIT/MyShell instant zero-shot voice cloning. Clone *your* voice from a short clip with granular control over emotion, accent, rhythm, and style. Multilingual and computationally efficient. Free for commercial use. Powers millions of clones worldwide.
-
-- **[Coqui TTS (XTTS-v2)](https://github.com/coqui-ai/TTS)**  
-  Advanced open-source TTS toolkit with XTTS-v2: personal voice cloning from just 6 seconds of audio across 17+ languages. Streaming support, emotion transfer, and community-maintained (post-Coqui). Most downloaded TTS model on Hugging Face.
-
-- **[RVC WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)**  
-  Most popular real-time personal voice conversion/cloning tool. Preserve timbre, emotion, and performance from your audio. Easy WebUI, trains quickly on consumer GPUs. Huge ecosystem of forks (e.g., Applio) for singing, live voice changing, and TTS integration.
-
-- **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)**  
-  Few-shot (1 minute of your data) or zero-shot (5 seconds) personal voice cloning/TTS. Excellent emotion and singing control. WebUI included.
-
-- **[Fish Speech](https://github.com/fishaudio/fish-speech)**  
-  Expressive multilingual TTS with built-in personal voice cloning and fine-tuning. Top performer in 2026 benchmarks for naturalness and emotion.
-
-- **[Seed-VC](https://github.com/Plachtaa/seed-vc)**  
-  Zero-shot real-time voice and singing conversion. Clone from 1–30 seconds of your audio with ~300ms latency. Ultra-low-data fine-tuning support.
-
-- **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)**  
-  Alibaba’s multilingual model with zero-shot cross-lingual personal voice cloning and instruction-following. Streaming mode available.
-
-- **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**  
-  High-fidelity personal multi-voice cloning (slower inference but premium quality). Great for audiobooks and creative use.
-
-- **[VibeVoice](https://github.com/microsoft/VibeVoice)**  
-  Microsoft open-source stack for TTS + voice cloning (local, no cloud). Includes ASR integration and long-form support.
-
-- **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)**  
-  Style-based TTS with strong personal voice cloning and expressive control.
-
-- **[F5-TTS](https://github.com/SWivid/F5-TTS)**  
-  Non-autoregressive TTS optimized for fast, high-quality personal voice cloning.
+| Project Name | Backing Org / Accelerator | Description |
+| :--- | :--- | :--- |
+| **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** | **Binance Labs** (MyShell) | Instant zero-shot voice cloning with granular control over emotion, accent, and style. |
+| **[Coqui TTS (XTTS-v2)](https://github.com/coqui-ai/TTS)** | None (Mozilla Spin-off) | Advanced TTS toolkit; cloning from 6s of audio across 17+ languages. Community-maintained. |
+| **[RVC WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** | Community | Most popular real-time voice conversion. Huge ecosystem for singing and live voice changing. |
+| **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** | Community | Few-shot or zero-shot personal cloning/TTS. Excellent emotion and singing control. |
+| **[Fish Speech](https://github.com/fishaudio/fish-speech)** | Fish Audio | Expressive multilingual TTS with built-in cloning and fine-tuning. Top-tier naturalness. |
+| **[Seed-VC](https://github.com/Plachtaa/seed-vc)** | Community | Zero-shot real-time voice and singing conversion (~300ms latency). Ultra-low-data fine-tuning. |
+| **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** | Alibaba | Multilingual model with zero-shot cross-lingual cloning and instruction-following. |
+| **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** | Community | High-fidelity multi-voice cloning. Slower inference but premium, audiobook-quality output. |
+| **[VibeVoice](https://github.com/microsoft/VibeVoice)** | Microsoft | Open-source stack for TTS + voice cloning (local). Includes ASR integration. |
+| **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)** | Research (Individual) | Style-based TTS with strong personal cloning and expressive control. |
+| **[F5-TTS](https://github.com/SWivid/F5-TTS)** | Research (Individual) | Non-autoregressive TTS optimized for fast, high-quality personal cloning. |
 
 **Additional strong options**: Bark (suno-ai/bark), SpeechCraft (Bark-based cloning), and community forks of VITS/So-VITS-SVC.
 
