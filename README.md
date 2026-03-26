@@ -84,5 +84,11 @@ Star the repo if you find it useful!
 
 ---
 
+## ✨ Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Voice-Cloner&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-Voice-Cloner&type=date&legend=bottom-right)
+
+---
 **Made for creators, developers, podcasters, and voice enthusiasts.**  
 Let's make personal voice replication accessible, ethical, and powerful.
