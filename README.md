@@ -25,22 +25,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Instant Personal Voice Cloning)
 
-| Name | First Accelerator | Key Features |
-| :--- | :--- | :--- |
-| **[ElevenLabs](https://elevenlabs.io/)** | None | Industry leader. Instant & Professional Voice Cloning (PVC), emotional control, 29+ languages, and high-fidelity API. |
-| **[Play.ht](https://play.ht/)** | **YC** (W23) | Fast, high-quality cloning from minutes of audio. Real-time TTS, multilingual support, and easy-to-use API. |
-| **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | Real-time cloning + speech-to-speech. Strong ethical safeguards and on-premise deployment options. |
-| **[Cartesia](https://cartesia.ai/)** | **YC** (S25) | Ultra-low-latency (sub-40ms) instant cloning from 3 seconds of audio. Built for conversational AI agents. |
-| **[Fish Audio](https://fish.audio/)** | None | Emotional and multilingual cloning with excellent control. High-fidelity and budget-friendly. |
+| Name | First Accelerator | Pricing / Free Tier | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[ElevenLabs](https://elevenlabs.io/)** | None | Free (10k credits/mo) \| Starts $5/mo | Industry leader. Instant & PVC, emotional control, 29+ languages, and high-fidelity API. |
+| **[Play.ht](https://play.ht/)** | **YC** (W23) | Free (5k words/mo) \| Starts $19/mo | Fast, high-quality cloning. Real-time TTS, multilingual, and easy-to-use API. |
+| **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | Pay-as-you-go ($0.0005/sec) | Real-time cloning + speech-to-speech. Strong ethical safeguards and on-premise options. |
+| **[Cartesia](https://cartesia.ai/)** | **YC** (S25) | Free (10k credits/mo) \| Starts $5/mo | Ultra-low-latency (sub-40ms) instant cloning. Built for conversational AI agents. |
+| **[Fish Audio](https://fish.audio/)** | None | Free (8k credits/mo) \| Starts $5.50/mo | Emotional and multilingual cloning. High-fidelity and budget-friendly. |
 
 ### Advanced & Specialized Cloning Tools
 
-| Name | First Accelerator | Focus Area |
-| :--- | :--- | :--- |
-| **[Descript Overdub](https://www.descript.com/overdub)** | None | Spun out of Detour; perfect for podcast/video editing — replace or extend your own words naturally. |
-| **[Murf.ai](https://murf.ai/)** | **Antler** (India) | Studio-quality personal cloning with emotional range. Ideal for video narration and training content. |
-| **[LOVO.ai](https://lovo.ai/)** | **500 Global** | Focus on marketing and explainer videos. Strong multilingual support and templates. |
-| **[Typecast](https://typecast.ai/)** | **500 Global** | Instant personal cloning with very short audio samples and a user-friendly interface. |
+| Name | First Accelerator | Pricing / Free Tier | Focus Area |
+| :--- | :--- | :--- | :--- |
+| **[Descript Overdub](https://www.descript.com/overdub)** | None | Free (1hr transcription/mo) \| Starts $12/mo | Perfect for podcast/video editing — replace or extend your own words naturally. |
+| **[Murf.ai](https://murf.ai/)** | **Antler** (India) | Free (10 mins total) \| Starts $19/mo | Studio-quality personal cloning with emotional range. Ideal for narration and training. |
+| **[LOVO.ai](https://lovo.ai/)** | **500 Global** | Free (20 mins trial) \| Starts $24/mo | Focus on marketing and explainer videos. Strong multilingual support and templates. |
+| **[Typecast](https://typecast.ai/)** | **500 Global** | Free (5 mins download/mo) \| Starts $8.99/mo | Instant personal cloning with very short audio samples and user-friendly interface. |
 
 **Other notable mentions**: WellSaid Labs (enterprise compliance cloning), Speechify, and Voice.ai.
 
