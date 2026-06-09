@@ -1,0 +1,6 @@
+__pycache__/*
+temp_repo_clone
+*.bk
+*.bak
+*.env
+contributors.txt
