@@ -10,7 +10,9 @@
   [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Voice-Cloner?style=social)](https://github.com/ishandutta2007/Awesome-Voice-Cloner)
 <br />
 <br />
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
   **A curated list of high-fidelity SaaS platforms and powerful open-source projects for personal voice cloning.**  
   *Master the art of digital voice replication for podcasts, games, accessibility, and content creation.*
