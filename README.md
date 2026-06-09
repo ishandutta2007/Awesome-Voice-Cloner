@@ -8,6 +8,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
   [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Voice-Cloner?style=social)](https://github.com/ishandutta2007/Awesome-Voice-Cloner)
+<br />
+<br />
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
   **A curated list of high-fidelity SaaS platforms and powerful open-source projects for personal voice cloning.**  
   *Master the art of digital voice replication for podcasts, games, accessibility, and content creation.*
