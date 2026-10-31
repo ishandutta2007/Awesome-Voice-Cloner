@@ -58,6 +58,7 @@ This repository tracks the rapidly evolving **AI voice cloning ecosystem**. We f
 | **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | **$25M Raised** | Pay-as-you-go ($0.0005/sec) | 🛡️ Real-time cloning + speech-to-speech. Strong ethical safeguards. |
 | **[Play.ht](https://play.ht/)** | **YC** (W23) | **Acquired by Meta** ($21M Raised) | Free (5k words/mo) \| Starts $19/mo | ⚡ Fast, high-quality cloning. Real-time TTS & powerful API. |
 | **[Uplift AI](https://uplift.ai/)** | **YC** (S25) | **$3.5M Raised** (Seed) | Early Access | 🌍 Foundational models for regional languages (Urdu, Bengali, Greek). |
+| **[Tera Studio](https://terastudio.co/)** | None | Bootstrapped | Free (2 full songs) \| Starts $8.99/mo | 🎤 Singing-voice cloning: learns your voice from about 1 min of singing and sings any uploaded song in your voice. |
 
 ### Voice-First Agents & Interactive Clones (New 2026)
 
