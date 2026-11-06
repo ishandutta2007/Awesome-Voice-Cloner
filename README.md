@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Awesome Voice Cloner Banner" width="800">
+  <img src="assets\banner.svg" alt="Awesome Voice Cloner Banner" width="800">
 
   # 🎙️ Awesome Voice Cloner
   ### **The Definitive Guide to AI Voice Cloning, Text-to-Speech (TTS), and Voice Replication**
