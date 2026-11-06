@@ -34,6 +34,7 @@ This repository tracks the rapidly evolving **AI voice cloning ecosystem**. We f
 ---
 
 ## 🛠️ Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🚀 SaaS Products](#-saas-products)
   - [Core Platforms](#core-platforms-instant-personal-voice-cloning)
   - [Voice-First Agents (New 2026)](#voice-first-agents--interactive-clones-new-2026)
@@ -42,7 +43,13 @@ This repository tracks the rapidly evolving **AI voice cloning ecosystem**. We f
   - [Dedicated Projects](#dedicated-personal-voice-cloning-projects)
   - [Frameworks](#frameworks-for-building-custom-cloners)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
 - [⚖️ Disclaimer](#-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+The global AI voice cloning and synthetic speech market is estimated at **$3.0B–$4.1B in 2026**, expanding aggressively at a CAGR of ~24% toward ~$10B by 2030. While generalized foundation TTS exhibits strong winner-take-most gravitational pull around frontier platforms (e.g., ElevenLabs, Synthesia), the broader voice ecosystem remains **moderately fragmented**—driven by hyper-specialized niches in ultra-low-latency agent telephony (Vapi, Bland, Retell), local/edge inference (Kokoro, Piper), and rich cross-lingual dubbing.
 
 ---
 
@@ -140,6 +147,17 @@ We love contributions! 💖
 2. **Add** your favorite tool/project to the relevant table.
 3. **Ensure** you include the First Accelerator, Pricing, and a clear Description.
 4. **Submit** a Pull Request.
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring and using **Awesome Voice Cloner**! If this repository has helped your development, research, or projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and contribute your own discoveries.
+- 📢 **Share it** with friends, colleagues, and the AI voice community on social platforms.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing maintenance and new updates, you can sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
 
 ---
 
