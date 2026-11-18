@@ -66,6 +66,7 @@ The global AI voice cloning and synthetic speech market is estimated at **$3.0B�
 | **[Play.ht](https://play.ht/)** | **YC** (W23) | **Acquired by Meta** ($21M Raised) | Free (5k words/mo) \| Starts $19/mo | ⚡ Fast, high-quality cloning. Real-time TTS & powerful API. |
 | **[Smallest AI](https://smallest.ai/)** | None | **$21M Raised** (Series A) | Free ($10 free credits) \| Starts Pay-as-you-go | ⚡ Lightning TTS model with sub-100ms latency and 14+ languages. |
 | **[Uplift AI](https://uplift.ai/)** | **YC** (S25) | **$3.5M Raised** (Seed) | Early Access | 🌍 Foundational models for regional languages (Urdu, Bengali, Greek). |
+| **[Miragea](https://miragea.ai/)** | None | Early-stage | Free (2,000 chars) \| Starts $1.99/mo | 🎙️ Instant cloning from a 5-10s sample, multi-speaker voiceovers in 10 languages, REST API with subtitle transcription. |
 
 ### Voice-First Agents & Interactive Clones (New 2026)
 
